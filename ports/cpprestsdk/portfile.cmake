@@ -3,8 +3,8 @@ include(vcpkg_common_functions)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO Microsoft/cpprestsdk
-    REF v2.10.2
-    SHA512 267a928f770a668874f9b7e381e8977ffa3478c9292df4ed93d4235d20f0e89b1bfe4cfc82945d3f28fe2746a4fe6089009c4839dac5db130494bb3a395dd198
+    REF dev/roschuma/2.10.3
+    SHA512 351d95129ea0a19c4c35141de25d2b3a558a1c81c4b3511e8409857fe205294e73ac6d28f0753beb3dd1db1c403da5218f75ccdc2b6b7217b7c65354f0cff207
     HEAD_REF master
 )
 
